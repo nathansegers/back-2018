@@ -1,0 +1,4 @@
+Omschrijf interfaces met uw eigen verstaanbare woorden.
+Bespreek de twee manieren van validatie
+Bespreek model vs viewmodel
+Wat is modelbinding
